@@ -51,7 +51,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: /doc/.vitepress/dist
+          path: /home/runner/work/coder-knock.github.io/coder-knock.github.io/doc/.vitepress/dist
 
   # 部署工作
   deploy:
