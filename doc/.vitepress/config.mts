@@ -20,7 +20,7 @@ export default defineConfig({
         ]
       }
     ],
-
+    outDir: './docs/.vitepress/dist',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
     ]
