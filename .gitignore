@@ -14,4 +14,3 @@ doc/.vitepress/cache
 .idea/vcs.xml
 .idea/.gitignore
 node_modules
-pnpm-lock.yaml
